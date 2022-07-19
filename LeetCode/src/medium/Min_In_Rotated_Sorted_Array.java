@@ -1,4 +1,4 @@
-package Medium;
+package medium;
 
 public class Min_In_Rotated_Sorted_Array {
 
