@@ -10,7 +10,7 @@ public class Longest_Substring_Without_Repeating_Characters_3 {
 
 		String s = "abcabcbb";
 		
-HashSet<Character> hs = new HashSet<Character>();
+		HashSet<Character> hs = new HashSet<Character>();
 		
 		int start = 0;
 		int end = 0;
